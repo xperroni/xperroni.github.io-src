@@ -1,4 +1,4 @@
 [submodule "output"]
-	path = output
+	path = publish
 	url = https://github.com/xperroni/xperroni.github.io.git
 	branch = master
