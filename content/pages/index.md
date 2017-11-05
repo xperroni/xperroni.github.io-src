@@ -4,8 +4,6 @@ save_as: index.html
 slug: home
 status: hidden
 
-<script>document.title='Home Page of Helio Perroni Filho'</script>
-
 ## About Me
 
 ![Me circa 2010]({filename}/images/photo.jpg)
