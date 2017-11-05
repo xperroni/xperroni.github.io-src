@@ -1,9 +1,9 @@
 Title: A Python API for Lego MINDSTORMS NXT Alpha Rex Design
 Date: 2011-01-19 17:01
 Category: Code
-Tags: Cybernetics, Programming, Python
+Tags: Robotics, Tutorial, Python
 Authors: Helio Perroni Filho
-Summary: How to control an NXT robot with Python
+Summary: How to control an NXT robot with Python.
 
 **Update:** _a properly-commented version of the code below made it to the [nxt-python repository](http://nxt-python.googlecode.com/svn/trunk/examples/alpharex.py). Yay me! :P_
 

@@ -1,9 +1,9 @@
 Title: ChatterBean's Last Source Package
 Date: 2010-06-07 12:52
 Category: Code
-Tags: Cybernetics, Programming, Java
+Tags: AI, Project, Java
 Authors: Helio Perroni Filho
-Summary: What Chatterbean was and where to download its last source package
+Summary: What Chatterbean was and where to download its last source package.
 
 ChatterBean was my first personal, open-ended, open-source project. In 2006 I stopped working on it due to lack of time, dissatisfaction with the results of my own efforts, and a growing disillusionment with the chat bot paradigm as a whole (more about that in a future post). Then in 2007 I started my MSc course on artificial vision, prompting a change in research interests – from abstract rule-based to real-world statistical systems – that buried any lingering hopes that I would resume my work on chat bots.
 
