@@ -1,4 +1,6 @@
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/getpelican/pelican-plugins.git
 [submodule "output"]
-	path = publish
-	url = https://github.com/xperroni/xperroni.github.io.git
-	branch = master
+	path = output
+	url = https://github.com/xperroni/xperroni.github.io-src.git

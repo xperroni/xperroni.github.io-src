@@ -23,8 +23,14 @@ INDEX_SAVE_AS = 'posts.html'
 
 THEME = 'theme'
 
-PLUGIN_PATHS = ['../pelican-plugins']
-PLUGINS = ['tag_cloud']
+# See: https://nosferalatu.com/Pelican.html
+PLUGIN_PATHS = ['./plugins']
+PLUGINS = ['render_math', 'tag_cloud']
+
+# See: https://github.com/getpelican/pelican-plugins/pull/1094
+MATH_JAX = {
+    'equation_numbering': 'AMS'
+}
 
 MENUITEMS = (
     ('Posts', '/posts.html'),

@@ -5,6 +5,7 @@
 
 {% endblock %}
 
+
    <div class="row">
 
 
@@ -16,7 +17,7 @@
                                 <footer class="post-info">
                                     <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
                                     {% if article.authors %}
-                                    <address class="vcard author">By
+                                    <address class="vcard author">By 
                                     {% for author in article.authors|sort %}
                                     <a class="url fn" href="{{ SITEURL }}/{{ author.url }}"> {{ author }}</a>
                                     {% endfor %}
@@ -45,7 +46,7 @@
                 </ol><!-- /#posts-list -->
 
         </div><!-- /.eleven.columns -->
-
+        
      {% include 'sidebar.html' %}
  </div><!-- /.row -->
 
