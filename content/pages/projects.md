@@ -2,17 +2,17 @@ Title: Projects
 
 This is a short list of open-source projects I have published. Some haven't seen updates in quite some time, but all were used in research and/or production at some point and should remain usable.
 
+## Luffer
+
+[https://github.com/xperroni/luffer](https://github.com/xperroni/luffer)
+
+Luffer is a tool to create isolated environments for software development and execution. Containers are seamlessly integrated to the host environment as they are instantiated, making possible to keep project files and general-purpose applications (such as text editor and version control clients) on the host, while project-specific tools and files are stored in the image. Multiple development environments with otherwise conflicting dependencies can therefore coexist in the same host.
+
 ## CV Video
 
 [https://github.com/xperroni/cv_video](https://github.com/xperroni/cv_video)
 
-CV Video integrates OopenCV's video recording and replaying API's to ROS.
-
-## DOKKA
-
-[https://github.com/xperroni/dokka](https://github.com/xperroni/dokka)
-
-DOKKA is a collection of BASH scripts to package software development stacks as Docker images. Containers are seamlessly integrated to the host environment as they are instantiated, making possible to keep project files and general-purpose applications (such as text editor and version control clients) on the host.
+CV Video integrates OpenCV's video recording and replaying API's to ROS.
 
 ## PyShed
 

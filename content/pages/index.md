@@ -6,12 +6,13 @@ status: hidden
 
 ## About Me
 
-![Me circa 2010]({filename}/images/photo.jpg)
+![Me circa 2010]({static}/images/photo.jpg)
 
-"Helio was an 8-year-old boy who got hold of a computer and never let go." Programming was my first foreign language, English being a distant second; today it feels like second nature. After getting my BS in computer science I spent the next ten years or so working in enterprise IT; recently though I came back to academia, where I do research in robotics and artificial vision.
+"Helio was an 8-year-old boy who got hold of a computer and never let go." Programming was my first foreign language, English being a distant second; today it feels like second nature. After getting my B.Sc. in Computer Science I spent the next ten years or so working in enterprise IT, before returning to academia for research in robotics and artificial vision. Currently I'm working in the robotics industry, developing mobile robot navigation software.
 
 ## Profile
 
+* 2018: Principal Software Architect, Autonomous Robotics at [CrossWing Inc.](http://crosswing.com/)
 * 2017 (Nov): Post-doc in autonomous driving technologies, [Laboratório de Computação de Alto Desempenho (LCAD)](http://www.lcad.inf.ufes.br/)
 * 2017 (Oct): Self-Driving Car Engineer nanodegree, [Udacity](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 * 2016: Ph.D. in Computer Science, [University of Tsukuba](http://www.tsukuba.ac.jp/en/)
@@ -28,7 +29,6 @@ status: hidden
 * Cognitive architectures (e.g. [Semantic Pointer Architecture](http://compneuro.uwaterloo.ca/research/spa/semantic-pointer-architecture.html), [IDEAL](http://liris.cnrs.fr/ideal/))
 * Computer vision
 * Alternative neural network architectures (e.g. [Holographic Reduced Representation](http://www.d-reps.org/), [Hierarchical Temporal Memory](http://numenta.com/learn/))
-</ul>
 
 ## Publications
 
@@ -53,7 +53,5 @@ status: hidden
 
 ## Contact Me
 
-* [Google+](https://plus.google.com/+HelioPerroniFilho)
 * [Facebook](https://www.facebook.com/helio.perronifilho)
 * [LinkedIn](https://www.linkedin.com/in/xperroni)
-* [ResearchGate](http://www.researchgate.net/profile/Helio_Perroni_Filho)

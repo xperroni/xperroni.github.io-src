@@ -394,24 +394,26 @@ Open a terminal window and start the ROS middleware by entering:
 
 Open another terminal window, `cd` to the folder containing `pioneer2dx_ros.world` and enter:
 
-    rosrun gazebo_ros gazebo -file pioneer2dx_ros.world
+    $ rosrun gazebo_ros gazebo -file pioneer2dx_ros.world
 
 You should now have a Gazebo window opened with a Pioneer 2DX placed in the middle of an empty world.
 
-![Gazebo GUI]({filename}/images/articles/2015-05-21-01/snapshot.png)
+![Gazebo GUI]({static}/images/articles/2015-05-21-01/snapshot.png)
 
 Finally, open a third terminal window (it's the last one, I promise) and check if the differential drive topics have been published:
 
-    rostopic list
+    $ rostopic list
 
 The following topics should be visible, among others:
 
+    :::sh
     /pioneer2dx/cmd_vel
     /pioneer2dx/odom
 
+
 You should now be able to get the robot moving by publishing messages to the `/pioneer2dx/cmd_vel` topic, e.g.
 
-    rostopic pub -1 /pioneer2dx/cmd_vel geometry_msgs/Twist \
+    $ rostopic pub -1 /pioneer2dx/cmd_vel geometry_msgs/Twist \
     '{linear: {x: 1.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.0}}'
 
 Should get the robot running in a loop.
