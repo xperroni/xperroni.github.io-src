@@ -21,7 +21,7 @@ AUTHOR_FEED_RSS = None
 
 INDEX_SAVE_AS = 'posts.html'
 
-THEME = 'theme'
+THEME = 'themes/gum'
 
 # See: https://nosferalatu.com/Pelican.html
 PLUGIN_PATHS = ['./plugins']

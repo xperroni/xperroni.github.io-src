@@ -4,3 +4,6 @@
 [submodule "output"]
 	path = output
 	url = https://github.com/xperroni/xperroni.github.io.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/getpelican/pelican-themes.git
